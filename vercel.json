@@ -16,7 +16,7 @@
       "dest": "/public/index.html"
     },
     { 
-  "handle":"filesystem"
+      "handle":"filesystem"
     },
     {
       "src": "/(.*)",
